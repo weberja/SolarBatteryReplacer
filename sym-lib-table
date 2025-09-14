@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name "AdditionalComponents")(type "KiCad")(uri "${KIPRJMOD}/battery_holder.kicad_sym")(options "")(descr ""))
-  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "TI")(type "KiCad")(uri "${KIPRJMOD}/TI.kicad_sym")(options "")(descr ""))
+  (lib (name "EasyCAD")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
 )
